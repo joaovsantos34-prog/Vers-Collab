@@ -1,2 +1,3 @@
 # Vers-Collab
-Material desenvolvido nas aulas de segunda-feira
+Material desenvolvido nas aulas da turma SESI Itapagipe 2E
+
